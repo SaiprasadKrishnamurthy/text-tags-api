@@ -5,7 +5,7 @@ const ValidationUtils = require('../utils/validation-utils');
 const RouteUtils = require('../utils/route-utils');
 
 /**
- * List of Data Transformation Routes
+ * List of Tags Routes
  */
 const tagsRoutes = [
     {
