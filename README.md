@@ -18,13 +18,13 @@
 
 ### Docker version
 * Run `npm run docker-build`
-* Run `docker run -p 7777:7777 saiprasadkrishnamurthy/data-transformation-service`
+* Run `docker run -p 7777:7777 saiprasadkrishnamurthy/text-tags-api`
 * Open `http://localhost:7777/documentation` for swagger.
 * Run the authentication endpoint by passing any username and password (doesn't matter).
 * Copy the api token and pass it to every other api calls.
 
 ## Steps to run the eslint
-ES lint is a code conventions/standards checking tool (like checkstyle/pmd) in the java world.
+ES lint is a code conventions/standards checking tool (like checkstyle/pmd in the java world).
 * Run `npm run lint`
 
 ## Steps to generate the kubernetes descriptor files.
