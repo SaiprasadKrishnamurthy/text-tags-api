@@ -1,0 +1,5 @@
+PORT=7777
+MONGO_URL=<Your Mongo URL>
+MONGO_USER=<Mongo user>
+MONGO_PASSWORD=<Mongo Password>
+JWT_SECRET_KEY=MyS3cr3t
